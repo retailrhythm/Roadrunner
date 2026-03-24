@@ -1,0 +1,9 @@
+# Large source video
+110 Roadrunner(1).mov
+
+# Sensitive documents
+*.pdf
+
+# Internal files
+HANDOFF.md
+110 Roadrunner/
